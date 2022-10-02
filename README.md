@@ -1,4 +1,4 @@
-# cafs-front
+# Eros
 
 ## Project setup
 ```
