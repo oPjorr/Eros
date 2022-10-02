@@ -10,7 +10,6 @@
       manual-input
       messages="Manual-input"
     />
-    <va-date-input class="mb-4 mr-4" label="readonly" readonly />
   </div>
 </template>
 
